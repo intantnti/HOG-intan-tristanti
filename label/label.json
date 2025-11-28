@@ -16,5 +16,14 @@
         "person_detected": 0,
         "hog_visualization": "hog_1764311271879_hog.png",
         "detection_result": "hog_1764311271879_detection.png"
+    },
+    {
+        "file": "orang_1764318799549.jpg",
+        "label": "orang",
+        "original_name": "hogtesting.jpg",
+        "timestamp": 1764318799549,
+        "person_detected": 1,
+        "hog_visualization": "orang_1764318799549_hog.png",
+        "detection_result": "orang_1764318799549_detection.png"
     }
 ]
